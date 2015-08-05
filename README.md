@@ -12,9 +12,10 @@
 
 :camera: Sube una imagen con el dibujo que te ayudó a resolver el problema.
 
+
 2. El IMC (índice de masa corporal) es una relación del peso y la estatura de una persona.
-  * IMC = peso / estatura*estaura
-  * El peso está en kilogramos y la estatura en metros.
-  * Dibuja un algoritmo que lea el peso en kilogramos y la estatura en centímetros y que calcule e imprima el IMC.
+ * IMC = peso / estatura*estaura
+ * El peso está en kilogramos y la estatura en metros.
+ * Dibuja un algoritmo que lea el peso en kilogramos y la estatura en centímetros y que calcule e imprima el IMC.
 
 :camera: Sube una imagen del diagrama de flujo que generes para resolver este problema.
