@@ -1,6 +1,6 @@
 #Actividad-01
 
-###Tarea 1. Algoritmos
+###Tarea 1. Algoritmos.
 
 #####A. Armando, Basilio, Carlos y Dionisio fueron a comer con sus esposas. En el restaurante, se sentaron en una mesa redonda, de forma que: 
  * Ninguna mujer se sentaba al lado de su marido.
